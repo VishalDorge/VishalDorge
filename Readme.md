@@ -11,7 +11,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🛠 &nbsp;Currently building Web apps in **MEAN Stack.**\
-🤝 &nbsp;I’m looking to collaborate on **Full Stack Interactive Web App Development**\
+🤝 &nbsp;I’m looking to collaborate on **Full Stack Development**\
 💬 &nbsp;Feel free to reach me out at **vishaldorge2000@gmail.com**
 <!-- 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishaldorge&label=Profile%20views&color=0e75b6&style=flat" alt="vishaldorge" /> </p> -->
@@ -26,10 +26,6 @@
 <a href = "https://www.instagram.com/vishaldorge007/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
 
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishaldorge&theme=onedark" alt="vishal" /></a> </p>
-
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshbirajdar09&label=Profile%20views&color=0e75b6&style=flat" alt="vishaldorge" /> </p> -->
 
 ### 🛠 &nbsp;Technologies
 
@@ -56,25 +52,6 @@
 <br/>
 
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/william-monroy">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vishaldorge&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vishaldorge&layout=compact&langs_count=5&theme=algolia"/>
-</a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/ganeshbirajdar09/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vishal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vishaldorge&theme=algolia&hide_border=true&stroke=0000"/>
-    </a>
-</p>
-
-<!-- <a href="https://github.com/vishaldorge/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=vishaldorge&column=8&theme=onedark&no-frame=true"/>
-</a>
- -->
 <!---
 vishaldorge/vishaldorge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
