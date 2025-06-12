@@ -10,8 +10,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🛠 &nbsp;Currently building Web apps in **MEAN Stack.**\
-🤝 &nbsp;I’m looking to collaborate on **Full Stack Development**\
+🛠 &nbsp;Currently trying to build Scalable Software Solutions
+🤝 &nbsp;I’m looking to collaborate on **Full Stack Mobile App Development**\
 💬 &nbsp;Feel free to reach me out at **vishaldorge2000@gmail.com**
 <!-- 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishaldorge&label=Profile%20views&color=0e75b6&style=flat" alt="vishaldorge" /> </p> -->
